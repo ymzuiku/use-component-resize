@@ -1,0 +1,20 @@
+{
+  "name": "use-component-resize",
+  "version": "0.0.1",
+  "description": "use-component-resize",
+  "dependencies": {
+    "react": "^16.8.4"
+  },
+  "main": "lib/index.js",
+  "types": "src/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ymzuiku/react-den-form.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ymzuiku/react-den-form/issues"
+  },
+  "homepage": "https://github.com/ymzuiku/react-den-form#readme"
+}
