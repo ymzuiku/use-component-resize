@@ -1,10 +1,8 @@
 {
   "name": "use-component-resize",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "use-component-resize",
-  "dependencies": {
-    "react": "^16.8.4"
-  },
+  "dependencies": {},
   "main": "lib/index.js",
   "types": "src/index.d.ts",
   "repository": {
